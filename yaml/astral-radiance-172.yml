@@ -1,0 +1,95 @@
+---
+id: swsh10-172
+name: Machamp V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '220'
+types:
+- Fighting
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Revenge Buster
+  cost:
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 50+
+  text: If your Benched Pokémon have any damage counters on them, this attack does
+    50 more damage.
+- name: Seismic Toss
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '140'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh10
+  name: Astral Radiance
+  series: Sword & Shield
+  printedTotal: 189
+  total: 216
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: ASR
+  releaseDate: 2022/05/27
+  updatedAt: 2022/05/27 09:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh10/symbol.png
+    logo: https://images.pokemontcg.io/swsh10/logo.png
+number: '172'
+artist: Shinya Komatsu
+rarity: Rare Ultra
+nationalPokedexNumbers:
+- 68
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh10/172.png
+  large: https://images.pokemontcg.io/swsh10/172_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh10-172
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 75.1
+      mid: 97.93
+      high: 170.0
+      market: 86.07
+      directLow: 86.44
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh10-172
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 93.13
+    lowPrice: 40.0
+    trendPrice: 87.2
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 68.0
+    avg1: 110.0
+    avg7: 100.0
+    avg30: 96.39
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

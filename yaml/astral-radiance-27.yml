@@ -1,0 +1,89 @@
+---
+id: swsh10-27
+name: Radiant Heatran
+supertype: Pokémon
+subtypes:
+- Basic
+- Radiant
+hp: '160'
+types:
+- Fire
+rules:
+- 'Radiant Pokémon Rule: You can''t have more than 1 Radiant Pokémon in your deck.'
+attacks:
+- name: Raging Blast
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 70×
+  text: This attack does 70 damage for each damage counter on this Pokémon.
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh10
+  name: Astral Radiance
+  series: Sword & Shield
+  printedTotal: 189
+  total: 216
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: ASR
+  releaseDate: 2022/05/27
+  updatedAt: 2022/05/27 09:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh10/symbol.png
+    logo: https://images.pokemontcg.io/swsh10/logo.png
+number: '27'
+artist: Shigenori Negishi
+rarity: Radiant Rare
+flavorText: Boiling blood, like magma, circulates through its body. It makes its dwelling
+  place in volcanic caves.
+nationalPokedexNumbers:
+- 485
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh10/27.png
+  large: https://images.pokemontcg.io/swsh10/27_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh10-27
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.1
+      mid: 0.5
+      high: 24.95
+      market: 0.27
+      directLow: 0.28
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh10-27
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.58
+    lowPrice: 0.19
+    trendPrice: 0.59
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.19
+    avg1: 0.66
+    avg7: 0.61
+    avg30: 0.59
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

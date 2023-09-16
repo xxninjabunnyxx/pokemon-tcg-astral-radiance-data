@@ -1,0 +1,93 @@
+---
+id: swsh10-60
+name: Ralts
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Psychic
+evolvesTo:
+- Kirlia
+attacks:
+- name: Teleportation Burst
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Switch this Pokémon with 1 of your Benched Pokémon.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh10
+  name: Astral Radiance
+  series: Sword & Shield
+  printedTotal: 189
+  total: 216
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: ASR
+  releaseDate: 2022/05/27
+  updatedAt: 2022/05/27 09:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh10/symbol.png
+    logo: https://images.pokemontcg.io/swsh10/logo.png
+number: '60'
+artist: Hataya
+rarity: Common
+flavorText: Tends to prefer people with a chipper disposition to those who are gloomy,
+  but it has shown no discrimination with regard to age or gender. Needs more research.
+nationalPokedexNumbers:
+- 280
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh10/60.png
+  large: https://images.pokemontcg.io/swsh10/60_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh10-60
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.05
+      mid: 0.25
+      high: 40.0
+      market: 0.19
+      directLow: 
+    reverseHolofoil:
+      low: 1.0
+      mid: 1.73
+      high: 3.98
+      market: 1.76
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh10-60
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.15
+    lowPrice: 0.01
+    trendPrice: 0.14
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.36
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.3
+    lowPriceExPlus: 0.01
+    avg1: 0.19
+    avg7: 0.13
+    avg30: 0.14
+    reverseHoloAvg1: 0.29
+    reverseHoloAvg7: 0.3
+    reverseHoloAvg30: 0.44
